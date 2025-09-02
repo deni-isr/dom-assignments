@@ -3,12 +3,12 @@ const todoList = [
   {
     id: 1,
     task: 'Learn HTML',
-    completed: true,
+    completed: false,
   },
   {
     id: 2,
     task: 'Learn CSS',
-    completed: true,
+    completed: false,
   },
   {
     id: 3,
